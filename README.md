@@ -14,3 +14,9 @@ Custom icons I create for my Mac when I don't like the defaults.
 
 ### To Restore ###
 5. *Click the icon in the Info window and hit backspace to stop using custom icons*
+
+
+## Notes ##
+- The */Originals* folders contain additional files I used during creation of the .icns, such as .psd and .png files and larger resolution copies of the original artwork. 
+
+- Any royalty free assets I used in the creation of the artwork is from pixabay.com

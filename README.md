@@ -1,14 +1,14 @@
 # CustomMacIcons
-Custom icons I create for my Mac when I don't like the defaults.
+Custom icons I create for my Mac when I don't like the defaults. Not for OS-installed apps
 
 ### Directions ###
 1. Open Applications folder, or wherever the app is saved that you want to replace
 
 2. Right click app and select "Get Info"
 
-3. Drag or copy/paste the .icns file over the app icon in the Info window.
+3. Drag the .icns file over the app icon in the Info window
 
-3. (Alternatively) If you want to use a custom .png file, open the new icon in preview, CMD+A to select all, and drag the selection over the app icon in the Info window.
+3. (Alternatively) If you want to use a custom .png file, open the new icon in preview, CMD+A to select all, CMD+C to copy selection, click on the app icon in the Info window, CMD+V to paste the selection
 
 4. Restart the app to see the custom icon
 
